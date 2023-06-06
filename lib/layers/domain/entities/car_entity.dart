@@ -1,9 +1,8 @@
-// ignore_for_file: public_member_api_docs, sort_constructors_first
-class Car {
+class CarEntity {
   String place;
   int amountPorts;
   double value;
-  Car({
+  CarEntity({
     required this.place,
     required this.amountPorts,
     required this.value,
