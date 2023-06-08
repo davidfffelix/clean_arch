@@ -1,4 +1,4 @@
-import '../../car_entity.dart';
+import '../../entities/car_entity.dart';
 
 abstract class GetCarColorsUseCase {
   CarEntity call(String color);
