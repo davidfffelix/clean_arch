@@ -3,10 +3,10 @@ import 'save_cars_favorites_usecase.dart';
 
 class SaveCarsFavoritesUseCaseImp implements SaveCarsFavoritesUseCase {
 
-  final SaveCarFavoriteRepository
+  // final SaveCarFavoriteRepository;
 
-  @override
-  bool call(CarEntity carEntity) {
+  // @override
+  // bool call(CarEntity carEntity) {
      
-  }
+  // }
 }
